@@ -48,6 +48,14 @@ using OrchardCore.Modules.Manifest;
 )]
 
 [assembly: Feature(
+    Id = "OrchardCore.Users.Localization",
+    Name = "User Localization",
+    Description = "Provides a way to set the culture per user.",
+    Dependencies = new[] { "OrchardCore.Users", "OrchardCore.Localization" },
+    Category = "Settings"
+)]
+
+[assembly: Feature(
     Id = "OrchardCore.Users.CustomUserSettings",
     Name = "Custom User Settings",
     Description = "The custom user settings feature allows content types to become custom user settings.",
