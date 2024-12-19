@@ -1444,7 +1444,8 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/13678304?v=4",
       "profile": "https://github.com/Habbni",
       "contributions": [
-        "translation"
+        "translation",
+        "code"
       ]
     },
     {
@@ -3255,6 +3256,15 @@
       "name": "James Pretorius",
       "avatar_url": "https://avatars.githubusercontent.com/u/50090107?v=4",
       "profile": "https://github.com/jbytes1027",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sparkie79",
+      "name": "sparkie79",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4757890?v=4",
+      "profile": "https://github.com/sparkie79",
       "contributions": [
         "code"
       ]
